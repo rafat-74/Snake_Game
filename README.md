@@ -1,4 +1,4 @@
 # Snake-Game 
-"University team project"
+"University team project" /n
 كود لعبة Snake Game باستخدام Tkinter مع دعم للتحكم اليدوي أو تشغيل الذكاء الاصطناعي (Greedy AI). اللعبة تتضمن ميزة تغيير ألوان الطعام عشوائيًا، عرض النتيجة، وإعادة التشغيل بعد الخسارة.
 
